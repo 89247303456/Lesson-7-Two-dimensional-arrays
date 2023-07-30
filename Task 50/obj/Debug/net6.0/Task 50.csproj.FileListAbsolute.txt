@@ -1,0 +1,15 @@
+D:\git-code\Урок 7. Двумерные массивы\Task 50\bin\Debug\net6.0\Task 50.exe
+D:\git-code\Урок 7. Двумерные массивы\Task 50\bin\Debug\net6.0\Task 50.deps.json
+D:\git-code\Урок 7. Двумерные массивы\Task 50\bin\Debug\net6.0\Task 50.runtimeconfig.json
+D:\git-code\Урок 7. Двумерные массивы\Task 50\bin\Debug\net6.0\Task 50.dll
+D:\git-code\Урок 7. Двумерные массивы\Task 50\bin\Debug\net6.0\Task 50.pdb
+D:\git-code\Урок 7. Двумерные массивы\Task 50\obj\Debug\net6.0\Task 50.csproj.AssemblyReference.cache
+D:\git-code\Урок 7. Двумерные массивы\Task 50\obj\Debug\net6.0\Task 50.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-code\Урок 7. Двумерные массивы\Task 50\obj\Debug\net6.0\Task 50.AssemblyInfoInputs.cache
+D:\git-code\Урок 7. Двумерные массивы\Task 50\obj\Debug\net6.0\Task 50.AssemblyInfo.cs
+D:\git-code\Урок 7. Двумерные массивы\Task 50\obj\Debug\net6.0\Task 50.csproj.CoreCompileInputs.cache
+D:\git-code\Урок 7. Двумерные массивы\Task 50\obj\Debug\net6.0\Task 50.dll
+D:\git-code\Урок 7. Двумерные массивы\Task 50\obj\Debug\net6.0\refint\Task 50.dll
+D:\git-code\Урок 7. Двумерные массивы\Task 50\obj\Debug\net6.0\Task 50.pdb
+D:\git-code\Урок 7. Двумерные массивы\Task 50\obj\Debug\net6.0\Task 50.genruntimeconfig.cache
+D:\git-code\Урок 7. Двумерные массивы\Task 50\obj\Debug\net6.0\ref\Task 50.dll
